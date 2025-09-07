@@ -4,6 +4,7 @@
 ## 🚀 About Me  
 👨‍💻 **Junior Fullstack Developer** with a strong focus on **backend development, databases, and programming logic** based in Barcelona.    
 🔍 Passionate about building robust, scalable, and efficient systems.
+
 💡 Focused on solving problems and automating workflows with a strong focus on building solutions that make work easier.
 📌 Used to working with **Agile methodologies (Scrum)**, team collaboration, and continuous improvement.  
 
