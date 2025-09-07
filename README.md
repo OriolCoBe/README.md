@@ -6,7 +6,7 @@
 
 🔍 Passionate about building robust, scalable, and efficient systems.
 
-💡 Focused on solving problems and automating workflows with a strong focus on building solutions that make work easier.
+💡 Committed to solving problems and automating workflows with a strong focus on building solutions that make work easier.
 
 📌 Used to working with **Agile methodologies (Scrum)**, team collaboration, and continuous improvement.  
 
