@@ -1,7 +1,6 @@
 # README.md
-# 👋 Hi, I'm Oriol  
 
-## 🚀 About Me  
+## 👋 Hi, I'm Oriol  
 👨‍💻 **Junior Fullstack Developer** with a strong focus on **backend development, databases, and programming logic** based in Barcelona.    
 
 🔍 Passionate about building robust, scalable, and efficient systems.
